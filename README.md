@@ -28,7 +28,8 @@ To run these projects, you need to have the following installed:
 
 - XAMPP
 - PHP
-- MySQL or MariaDB
+- MySQL
+- MariaDB
 
  * Clone the Repository
    Clone this repository to your local machine or download the ZIP file and extract it.
