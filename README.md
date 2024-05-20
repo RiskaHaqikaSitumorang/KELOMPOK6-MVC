@@ -1,6 +1,6 @@
 ![image](https://github.com/RiskaHaqikaSitumorang/KELOMPOK6-MVC/assets/165547791/1ff5256d-0226-404e-9cf6-dcd25fc5d88c)# PHP MVC Projects Repository
 ### This repositori includes two PHP projects that have been restructured to utilize the MVC (Model-View-Controller) design pattern.The original projects are FROM [PHPgurukul](https://phpgurukul.com)  
-1. [e-Diary Management System Using PHP and MySQL](![Uploading image.png…]())
+1. [e-Diary Management System Using PHP and MySQL](https://phpgurukul.com/e-diary-management-system-using-php-and-mysql/)
 2. [Online Nurse Hiring Using PHP and MySQ](https://phpgurukul.com/online-nurse-hiring-system-using-php-and-mysql/)
 ## Project Descriptions
 ### E-Diary Management
